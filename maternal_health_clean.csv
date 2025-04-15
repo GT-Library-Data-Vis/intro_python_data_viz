@@ -1,0 +1,160 @@
+county,broadband_access_pct,births_mothers_less_12yrs_education_pct,low_birthweight_births_pct,premature_births_pct,births_teens_pct,maternal_death,county_categorization,maternity_care_deserts_value
+Lanier County,85.1,13.2,10.1,12.6,7.4,0,Single Burden,Maternity Care Desert
+Bryan County,95.1,5.4,7.6,9,3.8,0,Milestone,Full Access
+Appling County,50.9,22.8,9.3,11.8,12.7,1,Double Burden,Low Access
+Rabun County,90.3,17.5,7.8,9,7.6,1,Opportunity,Full Access
+Bleckley County,55.1,14,9.4,12.2,8.9,0,Single Burden,Full Access
+Fayette County,17.4,6.7,9.1,11.1,2.8,0,Single Burden,Full Access
+Jefferson County,99,18.8,10.8,12.1,8.3,1,Opportunity,Full Access
+Seminole County,100,17.3,14,12.4,12.2,1,Opportunity,Full Access
+Camden County,95.2,8,8.1,10.3,4.7,1,Opportunity,Full Access
+Glynn County,96.6,19,12.3,12.7,8.8,1,Opportunity,Full Access
+Polk County,63.6,29.2,8.7,12.3,9.6,1,Double Burden,Full Access
+Morgan County,91.5,12.9,7.3,10.9,6.6,1,Opportunity,Full Access
+Talbot County,81.2,12,10.9,13.9,8.6,0,Single Burden,Full Access
+Schley County,72.4,10.6,11.4,13,5.9,0,Single Burden,Maternity Care Desert
+Union County,71.3,9.7,8.1,9.6,6.5,1,Double Burden,Full Access
+Wilcox County,28.6,15.5,13.8,14.5,12.1,0,Single Burden,Maternity Care Desert
+Ware County,82.7,21.6,11.6,13.9,12.1,0,Single Burden,Low Access
+Clarke County,54.8,15.1,10.4,11.7,5.4,1,Double Burden,Full Access
+Jones County,86.4,11.9,8.7,11.8,7.4,1,Double Burden,Full Access
+Carroll County,97.4,13.9,8.1,9.3,8.1,0,Milestone,Low Access
+Rockdale County,98.5,14,11.2,13.5,5.8,1,Opportunity,Full Access
+Dade County,92,14.1,9,10.7,8.5,0,Milestone,Maternity Care Desert
+Murray County,98.2,30.5,8.5,11.2,11.6,1,Opportunity,Low Access
+Cobb County,97.9,10.2,8.7,10.1,3.3,1,Opportunity,Full Access
+Columbia County,69.8,5.8,7.7,9.6,2.9,1,Double Burden,Full Access
+Forsyth County,99,3.9,7,9.5,1.8,1,Opportunity,Full Access
+Baldwin County,82.7,15.5,11.9,12.9,7.5,1,Double Burden,Full Access
+Walker County,75.4,16.9,9.6,10.9,10.6,0,Single Burden,Full Access
+Emanuel County,95,18.8,10,11.9,9.4,1,Opportunity,Low Access
+Gilmer County,81.5,30.7,6.7,9.7,9.8,0,Single Burden,Full Access
+Warren County,0,16,14,9,7.7,0,Single Burden,Maternity Care Desert
+Elbert County,65.2,19.7,11.2,12.2,7.8,0,Single Burden,Moderate Access
+Clayton County,98.2,18.2,12.5,12.3,7.1,1,Opportunity,Low Access
+Brantley County,99.4,22.6,9.4,12.6,12.4,0,Milestone,Maternity Care Desert
+Chatham County,96,10.2,10.7,12.2,5.2,1,Opportunity,Full Access
+Peach County,63.7,17,10.3,12.1,6.4,0,Single Burden,Low Access
+Echols County,0,32.6,6,9,6,0,Single Burden,Maternity Care Desert
+Evans County,82,28.8,11.5,12.2,11.2,0,Single Burden,Maternity Care Desert
+Quitman County,62.7,24,7.2,12,12.8,0,Single Burden,Maternity Care Desert
+Irwin County,58.3,17.4,12.6,13.5,8.3,1,Double Burden,Maternity Care Desert
+Burke County,72.2,17.9,12.3,13,8.2,1,Double Burden,Maternity Care Desert
+Henry County,56.9,8.2,10.6,11.5,5,0,Single Burden,Maternity Care Desert
+Liberty County,32.7,6.9,9.2,9.6,6.4,0,Single Burden,Maternity Care Desert
+Madison County,96.4,16.8,8.2,10.2,6.7,1,Opportunity,Full Access
+Toombs County,58.8,20.9,11.5,12.6,10.6,0,Single Burden,Full Access
+Monroe County,62.3,11.4,11.7,13.5,5,0,Single Burden,Full Access
+Clinch County,62.8,21,13,15.1,9.3,1,Double Burden,Full Access
+Oconee County,91.4,5.2,5.5,8.6,1.6,0,Milestone,Full Access
+Berrien County,83.9,18.9,12.8,12.5,9.9,0,Single Burden,Maternity Care Desert
+Charlton County,67.6,17,9,9.8,9.9,0,Single Burden,Maternity Care Desert
+Cook County,82.1,20.3,10.2,10.7,10.5,0,Single Burden,Low Access
+Pierce County,76.7,18.1,9.7,12.6,11.3,0,Single Burden,Low Access
+Early County,46.2,18.8,15.2,13.9,10.5,0,Single Burden,Maternity Care Desert
+Johnson County,59.9,16.9,10.6,10.7,6.9,0,Single Burden,Low Access
+Taylor County,66.2,18.1,9.3,10.5,10.7,0,Single Burden,Maternity Care Desert
+Dooly County,52.8,26.9,14.9,15.3,11.7,0,Single Burden,Maternity Care Desert
+Dawson County,88.8,11.2,7.1,9.9,5.8,0,Single Burden,Full Access
+Lee County,96.3,7.8,9.6,13.2,4.8,0,Milestone,Full Access
+Bartow County,94.2,19,7.9,11.8,7.3,1,Opportunity,Full Access
+Wilkes County,100,12.5,10.5,11.5,8.7,0,Milestone,Maternity Care Desert
+Lamar County,42.6,13.6,13.1,16.7,7.5,1,Double Burden,Maternity Care Desert
+Haralson County,100,15.1,8.2,9.5,9,0,Milestone,Low Access
+Coffee County,91.1,25.9,11.3,11.2,10.9,0,Milestone,Low Access
+Glascock County,1,14.5,6.1,10.7,12.2,0,Single Burden,Maternity Care Desert
+Richmond County,95.9,15,12.1,12.2,7.5,1,Opportunity,Full Access
+Twiggs County,40.6,16,10.7,13.1,8.8,1,Double Burden,Maternity Care Desert
+White County,64.4,18.6,6.4,8,8.1,0,Single Burden,Full Access
+Miller County,93.3,12.2,10.7,14,6.5,0,Milestone,Low Access
+Meriwether County,52.8,10.8,11.2,13.1,7.3,1,Double Burden,Low Access
+Newton County,13.8,13.7,10,12.7,6.6,0,Single Burden,Full Access
+Mitchell County,58.5,19.8,11.5,11.2,10.9,1,Double Burden,Maternity Care Desert
+Gwinnett County,99,9.9,9,10.6,4.1,1,Opportunity,Full Access
+Greene County,0.9,15.9,12.1,14.7,6.8,0,Single Burden,Maternity Care Desert
+Sumter County,46.7,16.2,13.3,12,10.6,0,Single Burden,Maternity Care Desert
+Randolph County,54.8,20.1,14.3,14.3,11.5,0,Single Burden,Maternity Care Desert
+Franklin County,65.2,18.6,8.4,10.6,8.6,0,Single Burden,Maternity Care Desert
+Pulaski County,96.8,19.6,9,10.8,11.9,1,Opportunity,Full Access
+Brooks County,81.8,20.5,12,11.7,9.4,0,Single Burden,Maternity Care Desert
+Chattooga County,97.7,23.3,8.5,10.7,13.4,0,Milestone,Low Access
+Bacon County,77.3,25,10.7,11,9.3,1,Double Burden,Full Access
+Turner County,72.2,16.6,13.8,13.6,10.8,0,Single Burden,Full Access
+Lowndes County,13.5,13.2,11,12.2,7.4,0,Single Burden,Maternity Care Desert
+Atkinson County,60.2,29.6,8,8.3,11.7,0,Single Burden,Maternity Care Desert
+Towns County,97.3,11.9,7.3,8.8,7.8,1,Opportunity,Maternity Care Desert
+Screven County,99.1,16.9,12.7,13.7,8.6,0,Milestone,Maternity Care Desert
+Troup County,94.4,16.9,11.2,13.5,9.9,1,Opportunity,Low Access
+Laurens County,60.6,17.4,10.8,10.9,10.1,1,Double Burden,Full Access
+Fannin County,91.2,18.3,7.4,11.3,9,0,Milestone,Full Access
+Thomas County,87.5,15.3,10.3,12.5,8.5,1,Double Burden,Full Access
+Fulton County,33.8,9.7,10.8,11.2,4.5,0,Single Burden,Maternity Care Desert
+Candler County,100,29.4,12,13.1,10,0,Milestone,Maternity Care Desert
+Calhoun County,93,14.2,9.9,14.6,10.3,1,Opportunity,Full Access
+Baker County,83.4,18.5,8.9,11.5,8.3,1,Double Burden,Low Access
+Lincoln County,25.5,8.5,9.8,10.8,5.5,1,Double Burden,Maternity Care Desert
+Crisp County,79.7,24.3,14.1,13.8,11,1,Double Burden,Full Access
+Houston County,87,11.3,8.9,10.9,6.1,1,Double Burden,Full Access
+Pickens County,40.6,14.1,8.6,11.4,8.9,0,Single Burden,Maternity Care Desert
+Webster County,44,9.2,11.5,13.1,10.8,0,Single Burden,Full Access
+Wayne County,81.2,22.8,10.3,13.9,11.1,0,Single Burden,Low Access
+Effingham County,96.3,7.9,8.4,12.1,5.8,0,Milestone,Low Access
+Hall County,97.9,26.6,7,9.6,7.4,1,Opportunity,Full Access
+Telfair County,79.5,22.8,12.8,11.9,11.4,0,Single Burden,Maternity Care Desert
+Oglethorpe County,78.6,15.7,7.5,11,6.7,0,Single Burden,Maternity Care Desert
+Washington County,34.5,11.4,10,10.3,10.1,1,Double Burden,Maternity Care Desert
+Bibb County,30.8,18.6,13.8,14.3,8.6,1,Double Burden,Low Access
+Spalding County,95,20.8,13,13.8,9.5,1,Opportunity,Low Access
+Dodge County,60.5,18.6,9.9,9.4,8.6,0,Single Burden,Full Access
+Taliaferro County,91,14.5,8.7,18.8,5.8,0,Milestone,Maternity Care Desert
+Decatur County,65.2,17.6,12.7,13.7,11.2,0,Single Burden,Low Access
+Lumpkin County,87.7,13.6,6,7.3,5.6,0,Single Burden,Full Access
+Catoosa County,98.9,12.7,8.6,11.5,8,1,Opportunity,Full Access
+Bulloch County,100,12.5,10,13,6.4,0,Milestone,Full Access
+Jenkins County,79.8,18.1,13.1,16,11,0,Single Burden,Maternity Care Desert
+Hancock County,8.5,10.6,17.7,14.3,6.5,1,Double Burden,Maternity Care Desert
+Upson County,93.5,18.8,12,13.9,11.4,0,Milestone,Full Access
+Dougherty County,97.4,19,14.5,15.2,10.5,1,Opportunity,Full Access
+Muscogee County,99,13.5,11.8,13.6,7.6,1,Opportunity,Full Access
+Clay County,40.7,19.1,11.3,12.8,8.5,1,Double Burden,Maternity Care Desert
+Marion County,82.1,21.4,8.8,9.8,9.8,0,Single Burden,Maternity Care Desert
+Douglas County,98.3,10.8,10,10.8,5.7,1,Opportunity,Full Access
+Coweta County,95.9,9.8,8.8,11.1,5.3,1,Opportunity,Full Access
+Stewart County,0.8,16.4,13.8,15.9,5.8,0,Single Burden,Maternity Care Desert
+Heard County,59.1,17.1,7.6,10.6,11.3,0,Single Burden,Maternity Care Desert
+Wilkinson County,66.5,15.7,14,13.2,7.6,0,Single Burden,Maternity Care Desert
+Wheeler County,51.7,13.8,9.7,11.3,12.2,0,Single Burden,Maternity Care Desert
+McIntosh County,97,17.5,10.6,11,11.6,0,Milestone,Maternity Care Desert
+Worth County,65.5,16.7,13.1,13.9,10.8,0,Single Burden,Low Access
+Butts County,79.5,14.6,10,11.9,7.2,0,Single Burden,Low Access
+Jasper County,60.8,16.4,9.7,13,6.9,0,Single Burden,Full Access
+Macon County,64.6,26.4,14.8,12.4,12.2,0,Single Burden,Low Access
+Harris County,86.2,5.2,8.1,13.4,4.2,1,Double Burden,Full Access
+Tift County,84.7,23.1,11.8,12.5,10.5,1,Double Burden,Full Access
+Jeff Davis County,62.1,24.8,9.6,11.3,11.5,0,Single Burden,Maternity Care Desert
+Stephens County,93.6,21.6,9.4,10.1,8.5,0,Milestone,Full Access
+Colquitt County,87.7,25.2,10.8,12.1,10.4,0,Single Burden,Full Access
+Treutlen County,12.8,12.3,10.5,11.5,8.6,0,Single Burden,Maternity Care Desert
+McDuffie County,82.4,17.5,12.7,13.1,9.1,1,Double Burden,Low Access
+DeKalb County,98.2,13.1,10.3,10.7,4.7,1,Opportunity,Full Access
+Floyd County,94.2,23.6,9.1,11.3,9.1,0,Milestone,Full Access
+Putnam County,81.6,17.5,9,12.9,7.3,1,Double Burden,Low Access
+Terrell County,76.9,17.2,11.5,11.1,10.2,0,Single Burden,Full Access
+Tattnall County,74.5,20.9,9,11.2,8.6,0,Single Burden,Low Access
+Crawford County,85.8,13.9,11.2,12.2,4.8,0,Single Burden,Low Access
+Long County,83.7,14.4,9.4,11.1,6.3,0,Single Burden,Maternity Care Desert
+Hart County,97,16.4,9.1,12.4,9.6,1,Opportunity,Full Access
+Cherokee County,98.6,8.9,7.1,9.7,3.2,0,Milestone,Low Access
+Chattahoochee County,54.5,7.1,8.3,9.3,4,1,Double Burden,Full Access
+Montgomery County,97.2,13.1,8.4,10.5,10.7,1,Opportunity,Full Access
+Walton County,78.7,12.9,8.2,10.8,6.1,1,Double Burden,Full Access
+Pike County,92.5,9,8.7,12.3,5.5,0,Milestone,Low Access
+Ben Hill County,91.5,23.9,14.6,12.6,11.7,0,Milestone,Maternity Care Desert
+Barrow County,98.4,10.9,7.7,10.5,4.5,0,Milestone,Low Access
+Banks County,79.1,17.8,7.7,11.2,6.4,0,Single Burden,Maternity Care Desert
+Paulding County,98.7,7.8,8.1,10.9,4,1,Opportunity,Low Access
+Grady County,82.1,29.9,9.5,10.2,11,0,Single Burden,Full Access
+Gordon County,91.9,23.1,8.1,9.7,9.2,1,Opportunity,Full Access
+Jackson County,95.6,11.3,8,10.2,5,1,Opportunity,Full Access
+Whitfield County,100,30.2,7.9,11.3,9,1,Opportunity,Full Access
+Habersham County,94.5,25,7.4,9.2,7.9,0,Milestone,Full Access
